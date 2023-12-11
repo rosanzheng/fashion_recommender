@@ -1,4 +1,4 @@
-model_checkpoint.pth
+*.pth
 *.png
 __pycache__/
 
