@@ -1,5 +1,6 @@
 *.pth
-*.png
+result*.png
+top10*.png
 __pycache__/
 
 # FashionMNIST
