@@ -15,11 +15,11 @@ dependencies:
   - ipywidgets==8.1.1
   - ipykernel
   - pip:
-    - --extra-index-url https://download.pytorch.org/whl/cu118
-    - torch==2.0.0+cu118
-    - --extra-index-url https://download.pytorch.org/whl/cu118
-    - torchvision==0.15.0+cu118
-    - --extra-index-url https://download.pytorch.org/whl/cu118
-    - torchaudio==2.0.0+cu118
+    - --extra-index-url https://download.pytorch.org/whl/cu113
+    - torch==1.12.1+cu113
+    - --extra-index-url https://download.pytorch.org/whl/cu113
+    - torchvision==0.13.1+cu113
+    - --extra-index-url https://download.pytorch.org/whl/cu113
+    - torchaudio==0.12.1+cu113
     - denoising_diffusion_pytorch==1.9.4
     
